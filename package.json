@@ -1,0 +1,26 @@
+{
+  "name": "react-tutorial-3",
+  "version": "1.0.0",
+  "description": "Another project for Tyler McGinnis' series of blog posts on building apps with React.js.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KalevRK/react-tutorial-3.git"
+  },
+  "author": "Kalev Roomann-Kurrik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KalevRK/react-tutorial-3/issues"
+  },
+  "homepage": "https://github.com/KalevRK/react-tutorial-3",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.5.1",
+    "gulp-react": "^3.0.1",
+    "gulp-uglify": "^1.2.0"
+  }
+}
